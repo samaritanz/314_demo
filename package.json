@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@types/node": "^20.12.6",
+    "hardhat": "^2.22.2",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "pino": "^8.20.0",
+    "pino-pretty": "^11.0.0"
+  }
+}
